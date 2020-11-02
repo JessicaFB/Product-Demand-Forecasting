@@ -8,6 +8,12 @@
 
 A global manufacturer has four warehouses worldwide. They want to implement a product demand strategy to optimize warehouse inventory and increase turn-over rates.
 
+## Business Value
+
+Warehouses are costly to run. Each square foot of space is valuable. If a product stays on the floor too long, it ends up costing the warehouse more money to store it than profits of its sale would be worth. Conversly, if there is not enough product to meet demand, a shortage can occur, which slows down imperative supply-chains for customers, which decreases customer satisfaction and contributes to the loss of business.
+
+By optimizing between these two, customers remain happy, and valuable floor space is occupied by products with a cost-efficient turn-over rate, saving the manufacturer significantly in profits and customer satisfaction and retention.
+
 ## Data
 
 https://www.kaggle.com/felixzhao/productdemandforecasting
