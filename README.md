@@ -6,7 +6,7 @@
 
 ## Business Case
 
-A global manufacturer has four warehouses worldwide. They want to implement a product demand strategy to optimize warehouse inventory and increase turn-over rates.
+A global manufacturer has four warehouses worldwide. They want to forecast product demand so they can reduce carrying costs while increasing sales and customer satisfaction, and thus increasing profits. 
 
 ## Business Value
 
