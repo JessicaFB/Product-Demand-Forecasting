@@ -50,6 +50,11 @@ The final result was a model with 6.47% MAPE, which is great accuracy for produc
 
 - At Warehouse J, the top 100 selling items (out of 2157 products) make up 86.14% of all units sold.
 
+!["Top 20 Products"](Figures/Top20.png)
+!["Components From Daily Model"](Figures/ComponentsD.png)
+!["Components From Daily Model"](Figures/ComponentsD.png)
+
+
 ### Component Trends
 
 - There was an overall downward trend of product sales starting with an inflection point in Q3 of 2014. 
@@ -58,11 +63,8 @@ The final result was a model with 6.47% MAPE, which is great accuracy for produc
 
 - There is a drop-off in orders late December through the new year, followed by a large peak in demand in early February.
 
-
-!["International Plan"](figures/international%20plan.png)
-!["Customer Service Calls"](figures/customer%20service%20calls.png)
-!["Total Charges"](figures/total%20charges.png)
-
+!["Monthly Time Series Plot"](Figures/TimeSeriesM.png)
+!["Components From Daily Model"](Figures/ComponentsD.png)
 
 ## Recommendations
 
